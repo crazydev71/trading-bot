@@ -1,13 +1,13 @@
-# BitFinex Psuedo Bot
+# BitFinex Trading Bot
+Psuedo trading bot written in nodejs
 
 ### Setup
 
-#### Prerequisits
-- Require nodejs version >=10
+#### Require NodeJS Version >=10
 
 #### Install
 ```
-git clone 
+git clone https://github.com/crazydev71/trading-bot.git
 cd ./trading-bot
 npm install
 ```
