@@ -1,0 +1,23 @@
+{
+  "name": "trade-bot",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bitfinex-api-node": "^3.0.1",
+    "technicalindicators": "^2.0.9"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.0.1",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "eslint": "5.14.1",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-import-resolver-babel-module": "^5.0.1",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-react": "7.12.4",
+    "nodemon": "^1.18.10"
+  }
+}
